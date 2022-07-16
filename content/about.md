@@ -1,3 +1,3 @@
-evo poceo sa stranicom
-
-bit ce sve ok kad se snadjem ! :grinning:
+Started webpage
+figuring stuff out :grinning:
+...
