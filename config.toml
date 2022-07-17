@@ -4,19 +4,22 @@ theme = "hello-friend"
 paginate = 5
 enableEmoji = true
 
-privacy:
-  disqus:
-    disable: true
-  googleAnalytics:
-    disable: true
-  instagram:
-    disable: true
-  twitter:
-    disable: true
-  vimeo:
-    disable: true
-  youtube:
-    disable: true
+
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
 
 [params]
   # dir name of your blog content (default is `content/posts`).
