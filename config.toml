@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
-paginate = 5
+paginate = 25
 enableEmoji = true
 
 
