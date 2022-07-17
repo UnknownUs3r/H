@@ -1,9 +1,9 @@
-hideReadMore = true
 
-prvo i osnovno
+##Basic certs to get
+1. comptia a+ core 1 i core 2
+2. Networking +
+3. Linux essentials
 
-comptia a+ core 1 i core 2
-Networking +
-Linux essentials
+and perhaps Cyber Security.. 
 
-to je plan! :wink:
+we shall see how it goes! :wink:
