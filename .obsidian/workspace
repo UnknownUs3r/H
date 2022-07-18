@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d26813d5b55f2965",
+        "id": "2c01dbf1ad31ff43",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/current/current.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/current/current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +89,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/current/current.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -116,29 +110,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/current/current.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d26813d5b55f2965",
+  "active": "2c01dbf1ad31ff43",
   "lastOpenFiles": [
-    "content/about.md",
     "archetypes/default.md",
-    "content/Posts/sytax.md",
+    "content/about.md",
+    "content/showcase.md",
+    "content/archive.md",
     "README.md",
-    "content/Posts/comptiaaplus.md",
-    "themes/hello-friend/exampleSite/content/showcase.md",
-    "themes/hello-friend/exampleSite/content/archive.md",
-    "themes/hello-friend/exampleSite/content/about.md",
-    "themes/hello-friend/exampleSite/content/post/hello.md",
-    "themes/hello-friend/images/screenshot.png"
+    "static/img/hello.jpg",
+    "content/post/hello.md",
+    "Untitled.md",
+    "content/Posts/sytax.md",
+    "content/Posts/comptiaaplus.md"
   ]
 }
