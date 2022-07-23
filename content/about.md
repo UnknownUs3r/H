@@ -6,6 +6,5 @@ author = "Tomislav"
 
 # Hi there
 
-My firs site, learning HUGO and Learning for CompTIA A+
+My first website, learning HUGO, while learning markdown syntax :wink:
 
-trying to learn markdown syntax
