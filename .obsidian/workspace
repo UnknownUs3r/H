@@ -7,8 +7,12 @@
         "id": "2c01dbf1ad31ff43",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/about.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/about.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/about.md"
+              }
             }
           }
         ],
@@ -123,13 +131,13 @@
   },
   "active": "2c01dbf1ad31ff43",
   "lastOpenFiles": [
-    "archetypes/default.md",
-    "content/about.md",
-    "content/showcase.md",
+    "content/post/hello.md",
     "content/archive.md",
+    "content/about.md",
+    "archetypes/default.md",
+    "content/showcase.md",
     "README.md",
     "static/img/hello.jpg",
-    "content/post/hello.md",
     "Untitled.md",
     "content/Posts/sytax.md",
     "content/Posts/comptiaaplus.md"

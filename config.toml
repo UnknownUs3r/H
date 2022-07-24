@@ -1,8 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
-paginate = 20
-
+paginate = 25
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -12,12 +11,12 @@ paginate = 20
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
 
 [languages]
   [languages.en]
     title = "Hodalj.xyz"
-    subtitle = "Simple Cv"
+    subtitle = "Cv"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -45,5 +44,5 @@ paginate = 20
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "Showcase"
+        name = "Show"
         url = "/showcase"
