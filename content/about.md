@@ -6,5 +6,5 @@ author = "Tomislav"
 
 # Hi there
 
-My first website, learning HUGO, while learning markdown syntax :wink:
+My first website, learning HUGO, while learning markdown syntax
 
