@@ -8,3 +8,6 @@ author = "Tomislav"
 
 My first website, learning HUGO, while learning markdown syntax
 
+setting up github again after 3 years!
+try and try again :)
+
